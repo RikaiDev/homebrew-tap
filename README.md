@@ -19,6 +19,7 @@ brew install RikaiDev/tap/toki
 
 | Formula | Description |
 |---------|-------------|
+| [innen](Formula/innen.rb) | Deterministic, zero-daemon CLI knowledge engine for LLM agents (Karpathy LLM Wiki) |
 | [toki](Formula/toki.rb) | Automatic time tracking for developers |
 
 ## License
