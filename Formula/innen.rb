@@ -5,13 +5,13 @@
 class Innen < Formula
   desc "Deterministic, zero-daemon CLI knowledge engine for LLM agents (Karpathy LLM Wiki)"
   homepage "https://github.com/RikaiDev/innen"
-  version "0.1.0"
+  version "0.2.0"
   license "MIT"
 
   on_macos do
     on_arm do
       url "https://github.com/RikaiDev/innen/releases/download/v#{version}/innen-aarch64-apple-darwin.tar.gz"
-      sha256 "e5cf9491dfd8d43a38da72b9e7ecca27fc4bebafb4262326c20a6df810318100"
+      sha256 "4afcc61d7370c1b5199ed58a18e7dd71ab409f015a53f901e9f434ff77523948"
     end
   end
 
