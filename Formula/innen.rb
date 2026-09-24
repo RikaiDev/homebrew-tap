@@ -11,7 +11,7 @@ class Innen < Formula
   on_macos do
     on_arm do
       url "https://github.com/RikaiDev/innen/releases/download/v#{version}/innen-aarch64-apple-darwin.tar.gz"
-      sha256 "31a03ae2978c4b17f207bb00963f6c99d0a0cd79bb9e98870530c117d8778604"
+      sha256 "dcc635d2837224ea918f2629ed08e2f2e5abff3e07616d42d669942d4dafd73c"
     end
   end
 
